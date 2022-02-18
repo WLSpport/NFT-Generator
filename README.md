@@ -11,7 +11,8 @@ A simple pixel art generator. The purpose for me to do this is to popularize the
 - If you dont have pip get pip first
 [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 CTRL+S(same folder)
--###Open Installer.py OR python3 get-pip.py
+- Open Installer.py
+- python3 get-pip.py
 - pip install pillow
 - pip install -r requirements.txt
 - python main.py
